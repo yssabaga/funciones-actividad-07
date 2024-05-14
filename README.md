@@ -1,4 +1,6 @@
-#Actividad 07
+#Actividad 07  
+- - -  
+
 ##El programa deberá validar si el bucket ya existe o no y en caso de que no, debera crearlo y mostrar
 
 ~~~
